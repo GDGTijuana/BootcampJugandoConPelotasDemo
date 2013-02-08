@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JugandoConPelotas</string>
+    <string name="newgame"> Juego Nuevo</string>
+    <string name="about">Acerca de</string>
+    <string name="exit">Cerrar</string>
+</resources>
